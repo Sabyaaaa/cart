@@ -1,0 +1,588 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "userName": "Sagar",
+      "address": "Noida",
+      "mobileNo": 9953642989,
+      "email": "sasxssdcee",
+      "password": "dwd",
+      "dob": "12-20-2023",
+      "status": false,
+      "products": []
+    }
+  ],
+  "Carts": [
+    {
+      "userId": 1,
+      "order": [
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        }
+      ]
+    },
+    {
+      "userId": 2,
+      "order": [
+        {
+          "id": 1
+        },
+        {
+          "id": 4
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+
+      "product_name": "Relaxed Fit Jersey top",
+
+      "price": 1199,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "blue",
+
+      "quantity": {
+        "small": 3,
+
+        "medium": 4,
+
+        "large": 2
+      },
+
+      "gender": "men",
+
+      "description": "Top in soft cotton jersey with a round, rib-trimmed neckline, Relaxed fit with dropped shoulders, long sleeves and wide ribbing at the cuffs.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=source[/f4/66/f4665deecea65f2c98e507f8442d2f530d703b90.jpg],origin[dam],category[men_tshirtstanks_longsleeve],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+
+      "rating": 4.0,
+
+      "category": "t-shirt",
+
+      "material": "Cotton which is a soft and versatile natural fibre harvested from the cotton plant Elastane"
+    },
+
+    {
+      "id": 2,
+
+      "product_name": "Cable-knit polo jumper",
+
+      "price": 1999,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "pink",
+
+      "quantity": {
+        "small": 5,
+
+        "medium": 2,
+
+        "large": 0
+      },
+
+      "gender": "women",
+
+      "description": "Short jumper in a soft cable knit containing some wool. Ribbed polo neck, low dropped shoulders and long sleeves. Ribbing at the cuffs and hem.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F94%2F0a%2F940af2b882dec24933ee69c4847f992975301b7a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+
+      "rating": 2.5,
+
+      "category": "sweater",
+
+      "material": "Acrylic 49%, Polyamide 31%, Polyester 11%, Wool 6%, Elastane 3%"
+    },
+
+    {
+      "id": 3,
+
+      "product_name": "Rib-knit top",
+
+      "price": 1299,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "black",
+
+      "quantity": {
+        "small": 4,
+
+        "medium": 3,
+
+        "large": 2
+      },
+
+      "gender": "women",
+
+      "description": "Short, fitted top in a soft rib knit with a wide neckline at the front and a deep, round neckline at the back. Long trumpet sleeves and a straight hem.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=source[/5a/3b/5a3bdbb7fd31454071587b7ea9f26e9c092e5cb2.jpg],origin[dam],category[ladies_tops_longsleeve],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+
+      "rating": 4.0,
+
+      "category": "t-shirt",
+
+      "delivery_date": "30-10-2023",
+
+      "material": "Viscose 80%, Polyamide 20%, Polyamide, also called nylon, is a synthetic fibre made from oil (a fossil resource).Viscose is a regenerated cellulose fibre commonly made from wood, but the raw material could also consist of other cellulosic materials."
+    },
+
+    {
+      "id": 4,
+
+      "product_name": "Motif-detail sweatshirt",
+
+      "price": 1999,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "white",
+
+      "quantity": {
+        "small": 8,
+
+        "medium": 3,
+
+        "large": 5
+      },
+
+      "gender": "women",
+
+      "description": "Top in sweatshirt fabric with a motif on the front. Round, rib-trimmed neckline, long raglan sleeves and ribbing at the cuffs and hem.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=source[/19/e4/19e44b055b4472d47d083022af643d118bcbecba.jpg],origin[dam],category[ladies_hoodiesswetshirts_sweatshirts],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+
+      "rating": 3.5,
+
+      "category": "hoodie",
+
+      "material": "Recycled cotton is cotton made from textile waste in production or from end-of-life textile waste. The waste is mechanically recycled and spun into new yarn. Recycled polyester is polyester made from PET bottles or end-of-life textile waste. The PET bottles or textile waste is mechanically recycled and processed into new yarn."
+    },
+
+    {
+      "id": 5,
+
+      "product_name": "Flutter-sleeve jersey top",
+
+      "price": 899,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "red",
+
+      "quantity": {
+        "small": 2,
+
+        "medium": 3,
+
+        "large": 0
+      },
+
+      "gender": "women",
+
+      "description": "Fitted top in soft cotton jersey with a round neckline and lace-trimmed flutter sleeves.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=source[/f1/ea/f1ea5d1e6c1d81948c115d5f9373e98b1958d278.jpg],origin[dam],category[ladies_tops_shortsleeve],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+
+      "rating": 4.0,
+
+      "category": "t-shirt",
+
+      "material": "Recycled cotton is cotton made from textile waste in production or from end-of-life textile waste. The waste is mechanically recycled and spun into new yarn."
+    },
+
+    {
+      "id": 6,
+
+      "product_name": "Regular Short-sleeved shirt",
+
+      "price": 999,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "orange",
+
+      "quantity": {
+        "small": 1,
+
+        "medium": 3,
+
+        "large": 2
+      },
+
+      "gender": "men",
+
+      "description": "Short-sleeved shirt in a lyocell weave. Regular fit with a turn-down collar, French front and straight-cut hem with a slit in each side. Fabric made from lyocell is super soft, wrinkle resistant and drapes beautifully.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=source[/c4/54/c454318b3aec4a1c89b33650824ead3a51c98f13.jpg],origin[dam],category[men_shirts_casual],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+
+      "rating": 4.5,
+
+      "category": "shirts",
+
+      "material": "TENCEL™ Lyocell is a regenerated wood-based fibre made from wood pulp. It is produced in a closed-loop process where chemicals are reused."
+    },
+
+    {
+      "id": 7,
+
+      "product_name": "Straight Regular Jeans",
+
+      "price": 1999,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "black",
+
+      "quantity": {
+        "small": 2,
+
+        "medium": 2,
+
+        "large": 1
+      },
+
+      "gender": "men",
+
+      "description": "5-pocket jeans in cotton denim with a slight stretch for good comfort. Straight leg and a regular fit from the waist to the hem with a comfortable, looser feel around the whole leg. Regular waist and a zip fly. This is denim that lasts.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=source[/b1/27/b1271fb543b517771c65daee1b7919929885eb98.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+
+      "rating": 4.5,
+
+      "category": "jeans",
+
+      "delivery_date": "27-10-2023",
+
+      "material": "Elastane is an elastic synthetic fibre made from oil (a fossil resource)."
+    },
+
+    {
+      "id": 8,
+
+      "product_name": "Baseball Jacket",
+
+      "price": 2999,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "green",
+
+      "quantity": {
+        "small": 3,
+
+        "medium": 4,
+
+        "large": 1
+      },
+
+      "gender": "men",
+
+      "description": "Baseball jacket in soft, felted fabric with lightly padded sleeves in a contrasting colour. Regular fit with press-studs down the front and welt front pockets with a press-stud. Small, ribbed stand-up collar and matching ribbing at the cuffs and hem. Inner pocket with a press-stud. Quilted lining.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3f%2Fbc%2F3fbc16431eb0c353136a44812a0ffeb7e5159c43.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+
+      "rating": 3.0,
+
+      "category": "jacket",
+
+      "material": "Cotton, Polyester, Polyurethane, Recycled polyester, Wool"
+    },
+
+    {
+      "id": 9,
+
+      "product_name": "Straight Regular Jeans",
+
+      "price": 1499,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "blue",
+
+      "quantity": {
+        "small": 1,
+
+        "medium": 2,
+
+        "large": 1
+      },
+
+      "gender": "men",
+
+      "description": "5-pocket jeans in cotton denim with a slight stretch for good comfort. Straight leg and a regular fit from the waist to the hem with a comfortable, looser feel around the whole leg. Regular waist and a zip fly. This is denim that lasts.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F50%2Faa%2F50aa23f9612e4c6a44aaaf61c87a619557094891.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+
+      "rating": 2.5,
+
+      "category": "jeans",
+
+      "material": "Cotton which is a soft and versatile natural fibre harvested from the cotton plant Elastane"
+    },
+
+    {
+      "id": 10,
+
+      "product_name": "Oversized hoodie",
+
+      "price": 2199,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "Yellow",
+
+      "quantity": {
+        "small": 0,
+
+        "medium": 1,
+
+        "large": 0
+      },
+
+      "gender": "women",
+
+      "description": "Oversized hoodie in sweatshirt fabric with a soft brushed inside and flatlock seams. Double-layered, wrapover hood, low dropped shoulders and long sleeves. Ribbing at the cuffs and hem.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=source[/a7/0b/a70b3342067def169c46b94fbc72082b84a647db.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+
+      "rating": 4.5,
+
+      "category": "hoodie",
+
+      "material": "cotton 50%, Polyester 50%"
+    },
+
+    {
+      "id": 11,
+
+      "product_name": "Relaxed Fit Hoodie",
+
+      "price": 1499,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "Red",
+
+      "quantity": {
+        "small": 5,
+
+        "medium": 3,
+
+        "large": 1
+      },
+
+      "gender": "men",
+
+      "description": "Hoodie in sweatshirt fabric made from a cotton blend. Relaxed fit with a jersey-lined, drawstring hood, a kangaroo pocket, long sleeves and wide ribbing at the cuffs and hem. Soft brushed inside.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/4b/d04bea90b51e326af8949d3434da473802b1d9ca.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+
+      "rating": 4.0,
+
+      "category": "hoodie",
+
+      "material": "Cotton 88%, Polyester 12%"
+    },
+
+    {
+      "id": 12,
+
+      "product_name": "Regular Fit Jacket",
+
+      "price": 1999,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "beige",
+
+      "quantity": {
+        "small": 1,
+
+        "medium": 2,
+
+        "large": 2
+      },
+
+      "gender": "men",
+
+      "description": "Jacket in a woven cotton blend with a collar and a zip down the front. Regular fit with long sleeves, buttoned cuffs, diagonal front pockets with a press-stud, and an inner pocket. Lined.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=source[/fd/17/fd174b96cf1cb755a591c42ccff52f769f8727dc.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+
+      "rating": 2.5,
+
+      "category": "jacket",
+
+      "material": "Cotton 73%, Polyamide 27%, Polyester 100%"
+    },
+
+    {
+      "id": 13,
+
+      "product_name": "Regular Fit Hoodie",
+
+      "price": 1799,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "pink",
+
+      "quantity": {
+        "small": 4,
+
+        "medium": 4,
+
+        "large": 2
+      },
+
+      "gender": "men",
+
+      "description": "Long-sleeved hoodie in soft sweatshirt fabric with a kangaroo pocket, double-layered drawstring hood with a wrapover front, and ribbing at the cuffs and hem.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2e%2F14%2F2e148f104db470bf78ff25bd113159e76677571a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_hoodies%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+
+      "rating": 4.5,
+
+      "category": "hoodie",
+
+      "material": "Cotton 63%, Polyester 37%"
+    },
+
+    {
+      "id": 14,
+
+      "product_name": "Gathered jersey top",
+
+      "price": 999,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "beige",
+
+      "quantity": {
+        "small": 3,
+
+        "medium": 4,
+
+        "large": 2
+      },
+
+      "gender": "women",
+
+      "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=source[/73/89/7389d8b060bba3e0a88b23b6b2b3418d9c97135e.jpg],origin[dam],category[ladies_divided_new_clothes],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+
+      "rating": 1.0,
+
+      "category": "t-shirt",
+
+      "material": "Cotton 50%, Polyester 50%"
+    },
+
+    {
+      "id": 15,
+
+      "product_name": "Wide Ultra High Jeans",
+
+      "price": 1499,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "black",
+
+      "quantity": {
+        "small": 1,
+
+        "medium": 1,
+
+        "large": 1
+      },
+
+      "gender": "women",
+
+      "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=source[/e4/8e/e48e2251b813fe29be681b19382cea1651e952ac.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+
+      "rating": 3.0,
+
+      "category": "jeans",
+
+      "material": "Cotton 60%, Polyester 40%"
+    },
+
+    {
+      "id": 16,
+
+      "product_name": "Regular fit sweater",
+
+      "price": 999,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "red",
+
+      "quantity": {
+        "small": 5,
+
+        "medium": 3,
+
+        "large": 1
+      },
+
+      "gender": "men",
+
+      "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=source[/b1/8e/b18ecc14029b22d7f6303f1f7fed716e9867c79b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+
+      "rating": 4.0,
+
+      "category": "sweater",
+
+      "material": "Cotton 60%, Polyester 40%"
+    },
+
+    {
+      "id": 17,
+
+      "product_name": "White women shirt",
+
+      "price": 999,
+
+      "sizes": ["small", "medium", "large"],
+
+      "color": "white",
+
+      "quantity": {
+        "small": 3,
+
+        "medium": 4,
+
+        "large": 2
+      },
+
+      "gender": "women",
+
+      "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=source[/87/7f/877f06cccf7aad92ec09379534ec327752dc6290.jpg],origin[dam],category[ladies_plus],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+
+      "rating": 4.0,
+
+      "category": "shirts",
+
+      "material": "Cotton 70%, Polyester 30%"
+    }
+  ]
+}
